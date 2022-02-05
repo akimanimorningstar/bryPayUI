@@ -1,2 +1,2 @@
-# bryPayUI
+# BrytPayUI
 Created with CodeSandbox
